@@ -34,8 +34,8 @@
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-18.1" />
 
   <!-- Hybris repos -->
-  <project path="hybris-patches" name="dopaemon/hybris-patches" revision="hybris-18.1" />
-  <project path="hybris/hybris-boot" name="dopaemon/hybris-boot" revision="master" />
+  <project path="hybris-patches" name="SailfishOS-msmnile/hybris-patches" revision="hybris-18.1" />
+  <project path="hybris/hybris-boot" name="SailfishOS-msmnile/hybris-boot" revision="master" />
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
   <project path="external/libhybris" name="mer-hybris/libhybris" revision="master" />
   <project path="external/droidmedia" name="SailfishOS-vayu/droidmedia" revision="master" />
