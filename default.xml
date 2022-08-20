@@ -18,15 +18,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <!-- Xiaomi Redmi Note 10 Pro / Pro Max -->
-  <project path="device/xiaomi/sweet" name="SailfishOS-msmnile/device_xiaomi_sweet" revision="hybris-18.1" />
-  <project path="device/xiaomi/sm6150-common" name="SailfishOS-msmnile/device_xiaomi_sm6150-common" revision="hybris-18.1" />
-  <project path="vendor/xiaomi/sweet" name="SailfishOS-msmnile/vendor_xiaomi_sweet" revision="hybris-18.1" />
-  <project path="vendor/xiaomi/sm6150-common" name="SailfishOS-msmnile/vendor_xiaomi_sm6150-common" revision="hybris-18.1" />
-  <project path="kernel/xiaomi/sm6150" name="SailfishOS-msmnile/kernel_xiaomi_sweet" revision="hybris-18.1" />
-  <project path="rpm" name="SailfishOS-msmnile/droid-hal-sweet" revision="master" />
-  <project path="hybris/droid-configs" name="SailfishOS-msmnile/droid-config-sweet" revision="master" />
-  <project path="hybris/droid-hal-version-sweet" name="SailfishOS-msmnile/droid-hal-version-sweet" revision="master" />
+  <!-- Custom -->
   <project path="hybris/hybris-installer" name="SailfishOS-msmnile/hybris-installer" revision="master" />
   <project path="hybris/mw/sailfish-fpd-community" name="sailfishos-open/sailfish-fpd-community" revision="master" />
   <project path="external/fake_crypt" name="SailfishOS-vayu/fake_crypt" revision="master" />
