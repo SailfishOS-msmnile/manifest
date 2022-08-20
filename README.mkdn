@@ -122,6 +122,9 @@ cd $ANDROID_ROOT
 repo init -u https://github.com/SailfishOS-msmnile/manifest.git -b hybris-18.1
 ```
 ```
+git clone -b $DEVICE --single-branch https://github.com/SailfishOS-msmnile/device.git .repo/local_manifests
+```
+```
 repo sync --fetch-submodules -j$(nproc --all)
 ```
 ## Patches hybris $HABUILD_SDK
@@ -185,6 +188,7 @@ rpm/dhd/helpers/build_packages.sh --version
 ```
 export RELEASE=4.4.0.68
 ```
+-- you extra name flashable
 ```
 export EXTRA_NAME=-kernelpanix
 ```
