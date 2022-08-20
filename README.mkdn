@@ -159,12 +159,12 @@ cd $ANDROID_ROOT
 ```
 rpm/dhd/helpers/build_packages.sh --droid-hal
 ```
-```
+<!-- ```
 sdk-assistant maintain $VENDOR-$DEVICE-$PORT_ARCH zypper -n --plus-repo $ANDROID_ROOT/droid-local-repo/$DEVICE install --allow-unsigned-rpm hybris-libsensorfw-qt5 mce-plugin-libhybris ngfd-plugin-native-vibrator pulseaudio-modules-droid qtscenegraph-adaptation
 ```
 ```
 sb2 -t $VENDOR-$DEVICE-$PORT_ARCH -R -m sdk-install zypper in droid-config-$DEVICE -ofono-configs-binder
-```
+``` -->
 ```
 rpm/dhd/helpers/build_packages.sh --configs
 ```
