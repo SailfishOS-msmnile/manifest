@@ -121,6 +121,7 @@ cd $ANDROID_ROOT
 ```
 repo init -u https://github.com/SailfishOS-msmnile/manifest.git -b hybris-18.1
 ```
+[Device Support List](https://github.com/SailfishOS-msmnile/device/blob/master/README.md)
 ```
 git clone -b $DEVICE --single-branch https://github.com/SailfishOS-msmnile/device.git .repo/local_manifests
 ```
@@ -195,3 +196,4 @@ export EXTRA_NAME=-kernelpanix
 ```
 rpm/dhd/helpers/build_packages.sh --mic
 ```
+[**if you want support, tell me**](https://t.me/KernelPanix)
