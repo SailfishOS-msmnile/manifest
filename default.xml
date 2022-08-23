@@ -27,7 +27,7 @@
   <project path="external/fake_crypt" name="SailfishOS-vayu/fake_crypt" revision="master" />
   <project path="hybris/mw/hwcrypt" name="SailfishOS-vayu/hwcrypt" revision="master" />
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-18.1" />
-  <project path="platform/external/python/pybind11/tools/clang" name="wjakob/clang-cindex-python3" remote="github-core" revision="master" />
+  <project path="external/python/pybind11" name="TinkerBoard2-Android/external-python-pybind11" remote="github-core" revision="android11-rk3399" />
 
   <!-- Hybris repos -->
   <project path="hybris-patches" name="SailfishOS-msmnile/hybris-patches" revision="hybris-18.1" />
