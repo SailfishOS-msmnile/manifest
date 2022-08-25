@@ -3,6 +3,10 @@ SailfishOS
 
 Getting started
 ---------------
+**This not request**
+```
+sudo apt-get update && sudo apt-get -y install libpam-pwquality
+```
 ## Setup Export Devices $HOST
 ~/.hadk.env
 ```
