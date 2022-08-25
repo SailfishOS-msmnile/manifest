@@ -183,6 +183,9 @@ rpm/dhd/helpers/build_packages.sh --mw
 rpm/dhd/helpers/build_packages.sh --mw=https://github.com/SailfishOS-vayu/parse-android-dynparts
 ```
 ```
+rpm/dhd/helpers/build_packages.sh --mw=https://github.com/SailfishOS-vayu/pulseaudio-modules-droid
+```
+```
 rpm/dhd/helpers/build_packages.sh --gg
 ```
 ```
