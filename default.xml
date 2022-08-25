@@ -26,7 +26,6 @@
   <project path="hybris/mw/sailfish-fpd-community" name="sailfishos-open/sailfish-fpd-community" revision="master" />
   <project path="external/fake_crypt" name="SailfishOS-vayu/fake_crypt" revision="master" />
   <project path="hybris/mw/hwcrypt" name="SailfishOS-vayu/hwcrypt" revision="master" />
-  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-18.1" />
   <project path="external/python/pybind11" name="TinkerBoard2-Android/external-python-pybind11" remote="github-core" revision="android11-rk3399" sync-s="true" />
 
   <!-- Hybris repos -->
